@@ -5,7 +5,7 @@ Submitted by: **Isaac Lara**
 **Trivia** is an app that displays a question with up to 4 different answers to choose from. 
 it keeps count of how many quesitons you get correct and shows your final score at a game over screen.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -30,17 +30,23 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/69099acab08a4f6fa463ca5892da7bed">
+    </a>
+    <a href="https://www.loom.com/share/69099acab08a4f6fa463ca5892da7bed">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/69099acab08a4f6fa463ca5892da7bed-86d521656560bd70-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Every request would have HTML entries which would make the questions and anwers unreadable.
+i did have issues looking for solutions but was able to find the answer on stack overflow which worked and gave me 
+readable questions and answers.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Isaac Lara
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
